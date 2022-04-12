@@ -10,7 +10,7 @@
 通知：
 目前20号楼2层有1名同学抗原自测异常，已经在准备转运，具体核酸结果要等通知，大概率今天晚上。
 由于该同学于4月8日做过运饭志愿者，情况复杂，所以从现在起，19和20号楼起所有宿舍所有人足不出户。
-   
+
 要打热水的寝室每个寝室在门口防止一个热水瓶（或其他盛水容器），贴上标签，放一张一卡通，后续会有志愿者帮忙打水！
 
 大家不要恐慌，有可能是假阳，有问题及时向层长反映，我们会尽快解决！
@@ -34,3 +34,13 @@
 @ all people Group Notice
 今天18:30开始19号楼核酸，结束后20号楼开始。
 大家抓紧时间吃饭，从六楼开始做核酸时，我会从639开始叫，每五间宿舍一组，下去时拿好垃圾，听到敲门声再出门，回来时每个人记得领一桶水和一条泡腾片！！！
+
+## Building 20 Floor 5 网格管理群
+
+### 21:51
+
+【封控志愿者安排与分工职责】
+
+![Building_20_management_method_for_sealing_control_1](../img/Building_20_management_method_for_sealing_control_1.JPG)
+
+![Building_20_management_method_for_sealing_control_2](../img/Building_20_management_method_for_sealing_control_2.JPG)
