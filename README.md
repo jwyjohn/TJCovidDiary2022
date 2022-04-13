@@ -11,6 +11,7 @@
 ## 分类目录
 
 - uncategorized  未分类
+- housing 居住环境
 - 待续
 
 ## 贡献方式
